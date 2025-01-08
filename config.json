@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "guildId": "kullanılacak sunucu id",
+    "server_ip": "sunucu ip",
+    "playerChannel": "oyuncu istatistik sayısı kanal id",
+    "feedbackChannel": "öneri/hata kanal id",
+    "enableFeedbackCommands": false,
+    "server_port": "27015",
+
+    "comment_1": "Öneri/hata özelliğini kullanmak istiyorsanız true, istemiyorsanız false yazınız."
+}
