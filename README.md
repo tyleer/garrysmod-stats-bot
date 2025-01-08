@@ -5,7 +5,6 @@
 - Ardından klasördeki **baslat.bat** dosyasını açarak botu çalıştırabilirsiniz. 
 
 **NOT!** *config.json* dosyasındaki **playerChannel** kısmını değiştirerek oyuncu istatistiklerini odalarda canlı olarak alabilirsiniz.
-
 **NOT!** *config.json* dosyasındaki **enableFeedbackCommands** kısmını değiştirerek oyuncularınız tarafından öneri/hata mesajları alabilirsiniz.
 
 **Port** kısmını kendi sunucunuzun portu, farklıysa değiştirebilirsiniz.
