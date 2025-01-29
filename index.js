@@ -57,8 +57,7 @@ client.once('ready', async () => {
             console.log(err);
         });
     }, 25000);
-
-    // Komutları Discord API'sine yüklüyoruz
+    
     try {
         await rest.put(
             Routes.applicationGuildCommands(client.user.id, config.guildId),
